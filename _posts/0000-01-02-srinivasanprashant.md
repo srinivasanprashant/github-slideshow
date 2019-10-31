@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Enjoy at least one sunset per day!
 Use the left arrow to go back!
